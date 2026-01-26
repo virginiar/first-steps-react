@@ -18,4 +18,10 @@ En este proyecto se abordan los fundamentos de React:
 - Impresiones de variables
 - Props
 
+También se hace una introducción a las pruebas autpmáticas de aplicaciones React con Vitest:
+- Diferencia entre pruebas unitarias, de integración y extremo-a-extremo
+- Evaluación del índice de cobertura
+- Utilización de espías, mocks y snapshots
+- Triple A: Arrange, Act y Assert
 
+Vitest se instala con `npm install -D vitest`.
