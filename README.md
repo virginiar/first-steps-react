@@ -25,3 +25,4 @@ También se hace una introducción a las pruebas autpmáticas de aplicaciones Re
 - Triple A: Arrange, Act y Assert
 
 Vitest se instala con `npm install -D vitest`.
+Testing Library se instala con `npm install --save-dev @testing-library/react @testing-library/dom @types/react @types/react-dom`
