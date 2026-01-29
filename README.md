@@ -4,8 +4,14 @@ Aplicación web basada en el proyecto first-steps del curso de "React: De cero a
 
 Se trata de un proyecto React creado utilizando Vite con TypeScript + SWC.
 
+## Instalaciones necesarias para pruebas
+Vitest se instala con `npm install -D vitest`.
+
+Testing Library se instala con `npm install --save-dev @testing-library/react @testing-library/dom @types/react @types/react-dom`
+
 ## Instalación y ejecución del proyecto
 Descargar las dependencias con `npm install`.
+
 Iniciar la aplicación con `npm run dev`.
 
 ## Aspectos analizados
@@ -24,5 +30,4 @@ También se hace una introducción a las pruebas autpmáticas de aplicaciones Re
 - Utilización de espías, mocks y snapshots
 - Triple A: Arrange, Act y Assert
 
-Vitest se instala con `npm install -D vitest`.
-Testing Library se instala con `npm install --save-dev @testing-library/react @testing-library/dom @types/react @types/react-dom`
+
